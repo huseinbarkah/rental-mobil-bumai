@@ -1,0 +1,6 @@
+# Ignore local build output and node_modules so Vercel builds cleanly with Linux binaries
+node_modules
+dist
+.git
+.github
+*.log
